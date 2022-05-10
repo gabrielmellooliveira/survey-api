@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gabrielmellooliveira/survey-api/issues"
   },
-  "homepage": "https://github.com/gabrielmellooliveira/survey-api#readme"
+  "homepage": "https://github.com/gabrielmellooliveira/survey-api#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.2"
+  }
 }
